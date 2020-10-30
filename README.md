@@ -1,4 +1,4 @@
-# EnergyApp
+# SmartMonitor
 this app can make manage and show statistics about your energy system
 
 <table style= padding:10px">
